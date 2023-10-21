@@ -1,0 +1,15 @@
+.Card{
+    border-style:ridge;
+    border-color: rgb(31, 31, 31);
+    width: 15rem;
+    margin-left: 0.75rem;
+    margin-right: 0.75rem;
+}
+.Card .newsPhoto{
+    display: flex;
+    justify-content: space-around ;
+}
+.Card .newsPhoto img{
+    width: 14.5rem;
+
+}

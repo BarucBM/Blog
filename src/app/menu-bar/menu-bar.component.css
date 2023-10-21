@@ -1,0 +1,26 @@
+.menuContent{
+    display: flex;
+    flex-direction: row;    
+    justify-content: space-between;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 5rem;
+    margin-left: 3rem;
+    font-size: large;
+}
+.login{
+    justify-content: space-between;
+}
+.login img{
+    border-radius: 100%;
+    width: 20px;
+    margin-right: 5px;
+
+}
+.menus{
+    justify-content: space-between;
+
+}
+.menus span{
+    margin: 1rem;
+}
